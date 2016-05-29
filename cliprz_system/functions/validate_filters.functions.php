@@ -16,7 +16,8 @@
  *  Last modification 19/12/2012 04:49 PM.
  *
  * Description :
- *  validate filters functions.
+ *  validate filters * test.
+ 
  *
  * Licenses :
  *  This program is released as free software under the Affero GPL license. You can redistribute it and/or
